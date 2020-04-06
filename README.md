@@ -14,3 +14,6 @@ Year 2019 appears to be bursting even with *review* articles on Deep Learning us
 
 ## Credits
 This project was begun during Brainhack Geneva 2019. Credits for the scientific idea go to the Team 10 of instigators of Brainhack Geneva 2019 (Konstantinos S.-T., Timokleia K., Florian L. and Carolina L.). Technical idea and way of implementation is of the owner of this repository.
+
+## Contact
+E-Mail stefan.dvoretskii@tum.de.
