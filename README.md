@@ -1,5 +1,8 @@
 # DeepVisual - EEG-based picture reconstruction
 
+<!--(https://www.kentpaulette.com/wp-content/uploads/dream-bear-painting-artist-kent-paulette.jpg)-->
+<img src="https://www.kentpaulette.com/wp-content/uploads/dream-bear-painting-artist-kent-paulette.jpg" width="400px" />
+
 ## Goals
 First, easier goal is to predict seen image category based on EEG time series produced during showing the image to a participant.
 The ultimate goal is try to reconstruct the image pixels from EEG time series using deep learning.
