@@ -19,6 +19,6 @@ Year 2019 appears to be bursting even with *review* articles on Deep Learning us
 This project was begun during Brainhack Geneva 2019. Credits for the scientific idea go to the Team 10 of instigators of Brainhack Geneva 2019 (Konstantinos S.-T., Timokleia K., Florian L. and Carolina L.). Technical idea and way of implementation is of the owner of this repository.
 
 ## Contact
-<a href="https://mattermost.brainhack.org/brainhack/channels/DeepVisual" target="_blank"><img src="http://www.mattermost.org/wp-content/uploads/2016/03/logoHorizontal.png" width=100px /></a>
+<a href="https://mattermost.brainhack.org/brainhack/channels/DeepVisual" target="_blank"><img src="http://www.mattermost.org/wp-content/uploads/2016/03/logoHorizontal.png" width=400px /></a>
 <a href="https://meet.jit.si/DeepVisual" target="_blank">
-<img src="https://jitsi.org/wp-content/uploads/2018/11/jitsi-logo-blue-grey-text.png" width=100px /> </a>
+<img src="https://jitsi.org/wp-content/uploads/2018/11/jitsi-logo-blue-grey-text.png" width=400px /> </a>
